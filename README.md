@@ -1,2 +1,3 @@
 # C++
+🏋️‍♂️ Exercises · 🧠 Challenges
 
